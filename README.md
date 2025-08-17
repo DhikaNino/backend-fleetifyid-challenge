@@ -300,7 +300,7 @@ Endpoint: DELETE /departement/:id
 
 Menghapus data departement berdasarkan id.
 
-### 3. Atendance API
+### 3. Attendance API
 
 #### 3.1 Get Attendance Logs
 
@@ -355,7 +355,7 @@ Response:
 }
 ```
 
-#### 3.2 Atendance In
+#### 3.2 Attendance In
 
 ```bash
 Endpoint: POST /attendance/in
@@ -371,7 +371,7 @@ Body (JSON):
 }
 ```
 
-#### 3.3 Atendance Out
+#### 3.3 Attendance Out
 
 ```bash
 Endpoint: PUT /attendance/out
